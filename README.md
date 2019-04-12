@@ -48,7 +48,7 @@ nodelists are array-like but without much the convenient array behaviors and met
 
 5. What is a component?
 =====================================================
-components are reusable chunks of code we can plug in anywhere. They are not relient upon other elements on the page and do not bleed into other content. It's a self-contained little program so we can easily replicate behaviors we'd use over and over.  For example, make one responsive pretty nav dropdown menu component, never make it again. Tweak the colors/words but the structure is the same, thanks components! 
+components are reusable chunks of code we can plug in anywhere. They are not relient upon other elements on the page and do not bleed into other content. It's a self-contained little program so we can easily replicate behaviors we'd use over and over.  For example, make one responsive pretty nav dropdown menu component, never make it again. Tweak the colors/words but the structure is the same, thanks components!    
 
 
 
